@@ -1,8 +1,0 @@
-foo: bar
-server:
-  port: 8880
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8888/eureka/
