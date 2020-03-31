@@ -1,7 +1,6 @@
 foo: bar
 server:
   port: 8889
-
 eureka:
   client:
     serviceUrl:
