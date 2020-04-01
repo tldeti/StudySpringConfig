@@ -1,5 +1,6 @@
 server:
   port: 8891
+name: li
 eureka:
   instance:
     hostname: localhost

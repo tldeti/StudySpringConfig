@@ -1,5 +1,6 @@
 server:
   port: 8892
+name: wang
 eureka:
   instance:
     hostname: localhost
